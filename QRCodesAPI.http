@@ -1,0 +1,6 @@
+@QRCodesAPI_HostAddress = http://localhost:5232
+
+GET {{QRCodesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

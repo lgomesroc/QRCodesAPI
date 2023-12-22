@@ -1,0 +1,6 @@
+# Ignore as pastas
+bin
+.vs
+
+# Ignore todos os arquivos de texto
+*.user
