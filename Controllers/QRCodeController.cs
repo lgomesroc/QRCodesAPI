@@ -92,7 +92,7 @@ namespace QRCodesAPI.Controllers
             Data = data;
         }
 
-        public DataText(string text, Result result)
+        public DataText(this string text, Result result)
         {
             Text = text;
             Text = result.Text;

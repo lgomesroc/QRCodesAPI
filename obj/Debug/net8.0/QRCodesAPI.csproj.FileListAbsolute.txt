@@ -5,3 +5,4 @@ D:\Programas testes\QRCodesAPI\obj\Debug\net8.0\QRCodesAPI.AssemblyInfo.cs
 D:\Programas testes\QRCodesAPI\obj\Debug\net8.0\QRCodesAPI.csproj.CoreCompileInputs.cache
 D:\Programas testes\QRCodesAPI\obj\Debug\net8.0\QRCodesAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\Programas testes\QRCodesAPI\obj\Debug\net8.0\QRCodesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programas testes\QRCodesAPI\obj\Debug\net8.0\QRCodesAPI.sourcelink.json
